@@ -1,2 +1,4 @@
 # gettingandcleaningdata
-Course Project
+## Course Project - Explaining the script run_analysis.R
+
+## Codebook
